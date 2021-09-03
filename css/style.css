@@ -1994,13 +1994,9 @@ input[type="number"] {
   background-color: transparent; }
   .program-form__input::-ms-clear {
     display: none; }
-  .program-form__input::-webkit-input-placeholder {
-    color: #444444; }
   .program-form__input::-moz-placeholder {
     color: #444444; }
   .program-form__input:-ms-input-placeholder {
-    color: #444444; }
-  .program-form__input::-ms-input-placeholder {
     color: #444444; }
   .program-form__input::placeholder {
     color: #444444; }
@@ -2101,13 +2097,9 @@ input[type="number"] {
   color: #444444;
   text-transform: uppercase;
   padding: 14px 13px; }
-  .program-form__textarea::-webkit-input-placeholder {
-    color: #444444; }
   .program-form__textarea::-moz-placeholder {
     color: #444444; }
   .program-form__textarea:-ms-input-placeholder {
-    color: #444444; }
-  .program-form__textarea::-ms-input-placeholder {
     color: #444444; }
   .program-form__textarea::placeholder {
     color: #444444; }
